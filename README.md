@@ -1,4 +1,6 @@
-### Oi! Eu sou o Edu 👋
+# Oi, eu sou o Edu! 👋
+
+### [edupinheiro.dev](https://edupinheiro.dev)
 
 <div>
 <img height="130em" src="https://github-readme-stats.vercel.app/api?username=eduardopinheiromr&theme=omni&show_icons=true&count_private=true&hide=issues,contribs"/>
