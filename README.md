@@ -3,8 +3,8 @@
 ### [edupinheiro.dev](https://edupinheiro.dev)
 
 <div>
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=eduardopinheiromr&theme=omni&show_icons=true&count_private=true&hide=issues"/>
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardopinheiromr&layout=compact&theme=omni"/>
+<img height="130em" src="https://github-readme-stats-ochre-rho.vercel.app/api?username=eduardopinheiromr&theme=omni&show_icons=true&count_private=true&hide=issues"/>
+<img height="130em" src="https://github-readme-stats-ochre-rho.vercel.app/api/top-langs/?username=eduardopinheiromr&layout=compact&theme=omni"/>
 </div>
 
 <br>
